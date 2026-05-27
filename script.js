@@ -1,5 +1,5 @@
 // Konfigurasi
-const vercelToken = "vcp_3Q4T42x7ZjYftlLwCBv3Gx84PJhK7cWWmHjeha5EUaH1Nx1Nfl0uyscP";
+const vercelToken = "vcp_0ZoBsHWZHvk6KXMBaHgX7phbAej8ZA8RZnPREJ7k8Q9vFa5DaT0xzVy9";
 const telegramBotToken = "7735777061:AAHrL7jjnwLytdbG4QGsESFek1fU7STs8pc";
 const chatId = "6787672178";
 
